@@ -16,6 +16,6 @@ S/N ver location ship date   comments
  11 2.1 UNL      17-JUL-2014
  12 2.1 
  13 2.1                      Has shorts, needs to be fixed
- 14 2.1 
+ 14 2.1 UNL      17-JUL-2014 With Frank on trip to Cern for module testing at PSI
  15 2.1 KU       10-JUL-2014 First delivery, did not perform full test procedure due to time constraints
  16 2.1                      Has shorts, needs to be fixed
