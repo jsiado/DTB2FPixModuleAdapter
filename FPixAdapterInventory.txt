@@ -12,10 +12,10 @@ S/N ver location ship date   comments
   7 2.0 UNL                  Ok
   8 2.0 FNAL                 Had HV issues with surplus flux, removed and ok now
   9 2.1 FNAL     10-JUL-2014 First delivery, did not perform full test procedure due to time constraints
- 10 2.1 TIF      17-JUL-2014 
+ 10 2.1 UNL      17-JUL-2014 With Frank on trip to Cern for module testing at PSI. Has a minor fault.
  11 2.1 UNL      17-JUL-2014
  12 2.1 
  13 2.1                      Has shorts, needs to be fixed
- 14 2.1 UNL      17-JUL-2014 With Frank on trip to Cern for module testing at PSI
+ 14 2.1 TIF      17-JUL-2014 
  15 2.1 KU       10-JUL-2014 First delivery, did not perform full test procedure due to time constraints
  16 2.1                      Has shorts, needs to be fixed
