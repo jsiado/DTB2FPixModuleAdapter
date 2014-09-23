@@ -19,3 +19,4 @@ S/N ver location ship date   comments
  14 2.1 TIF      17-JUL-2014 
  15 2.1 KU       10-JUL-2014 First delivery, did not perform full test procedure due to time constraints
  16 2.1                      Has shorts, needs to be fixed
+ 17 2.1
