@@ -30,6 +30,21 @@ S/N ver location ship date   comments
  25 2.1 Cern     26-SEP-2014
  26 2.1
  27 2.1
+ 28 2.1
+ 29 2.1
+ 30 2.1
+ 31 2.1
+ 32 2.1
+ 33 2.1
+ 34 2.1
+ 35 2.1
+ 36 2.1
+ 37 2.1
+ 38 2.1
+ 39 2.1
+ 40 2.1
+ 41 2.1
+ 
 
 Note: From no. 17 on, a new delivery of boards have been used with a slightly lighter color. The resistor for the LED was changed from a 56 Ω to a 91 Ω
 
