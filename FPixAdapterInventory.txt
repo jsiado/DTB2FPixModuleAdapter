@@ -33,14 +33,14 @@ S/N ver location ship date   comments
  28 2.1 FNAL	 07-OCT-2014 
  29 2.1 FNAL	 07-OCT-2014 
  30 2.1
- 31 2.1 UNLstock
+ 31 2.1 Purdue   10-OCT-2014
  32 2.1 FNAL	 07-OCT-2014 
  33 2.1 FNAL	 07-OCT-2014 
- 34 2.1 UNLstock
+ 34 2.1 Purdue   10-OCT-2014
  35 2.1
- 36 2.1 UNLstock
- 37 2.1 UNLstock
- 38 2.1 UNLstock
+ 36 2.1 Purdue   10-OCT-2014
+ 37 2.1 Purdue   10-OCT-2014
+ 38 2.1 Cornell  10-OCT-2014
  39 2.1 UNLstock
  40 2.1   
  41 2.1 FNAL	 07-OCT-2014 
