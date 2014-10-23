@@ -57,6 +57,7 @@ S/N ver location ship date   comments
  52 2.1 
  53 2.1 
  54 2.1 
+ 55 2.1 
  
 
 Note: From no. 17 on, a new delivery of boards have been used with a slightly lighter color. The resistor for the LED was changed from a 56 Ω to a 91 Ω
