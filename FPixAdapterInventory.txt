@@ -19,13 +19,13 @@ S/N ver location ship date   comments
  14 2.1 UNL      17-JUL-2014 
  15 2.1 KU       10-JUL-2014 First delivery, did not perform full test procedure due to time constraints
  16 2.1                      Has shorts, needs to be fixed
- 17 2.1 inProd
+ 17 2.1 UNLstock
  18 2.1 FNAL	 07-OCT-2014 
  19 2.1 TIF      26-SEP-2014
  20 2.1 inProd
  21 2.1 UNLstock
  22 2.1                      Has some wrong resistors on SDA
- 23 2.1 inProd
+ 23 2.1 UNLstock
  24 2.1 PSI      26-SEP-2014
  25 2.1 FNAL     26-SEP-2014
  26 2.1 UNLstock
@@ -37,31 +37,32 @@ S/N ver location ship date   comments
  32 2.1 FNAL	 07-OCT-2014 
  33 2.1 FNAL	 07-OCT-2014 
  34 2.1 Purdue   10-OCT-2014
- 35 2.1 inProd
+ 35 2.1 UNLstock
  36 2.1 Purdue   10-OCT-2014
  37 2.1 Purdue   10-OCT-2014
  38 2.1 Cornell  10-OCT-2014
  39 2.1 UNLstock
- 40 2.1    inProd
+ 40 2.1 UNLstock  
  41 2.1 FNAL	 07-OCT-2014 
- 42 2.1  inProd
- 43 2.1  inProd
- 44 2.1  inProd
- 45 2.1  inProd
- 46 2.1  inProd
- 47 2.1  inProd
- 48 2.1  inProd
- 49 2.1  inProd
- 50 2.1  inProd
- 51 2.1  inProd
- 52 2.1  inProd
- 53 2.1  inProd
- 54 2.1  inProd
- 55 2.1  inProd
- 56 2.1  inProd
- 57 2.1  inProd
- 58 2.1  inProd
- 
+ 42 2.1 
+ 43 2.1 
+ 44 2.1 
+ 45 2.1 
+ 46 2.1 UNLstock
+ 47 2.1 UNLstock
+ 48 2.1 UNLstock
+ 49 2.1 UNLstock
+ 50 2.1 UNLstock
+ 51 2.1 
+ 52 2.1 UNLstock
+ 53 2.1 UNLstock
+ 54 2.1 UNLstock
+ 55 2.1 UNLstock
+ 56 2.1 UNLstock
+ 57 2.1 UNLstock
+ 58 2.1 UNLstock
+ 59 2.1 inProd
+ 60 2.1 inProd 
 
 Note: From no. 17 on, a new delivery of boards have been used with a slightly lighter color. The resistor for the LED was changed from a 56 Ω to a 91 Ω
 
