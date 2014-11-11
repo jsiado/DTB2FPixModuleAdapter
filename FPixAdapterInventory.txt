@@ -44,10 +44,10 @@ S/N ver location ship date   comments
  39 2.1 UNLstock
  40 2.1 UNLstock  
  41 2.1 FNAL	 07-OCT-2014 
- 42 2.1 
- 43 2.1 
- 44 2.1 
- 45 2.1 
+ 42 2.1 UNLstock
+ 43 2.1 UNLstock
+ 44 2.1 UNLstock
+ 45 2.1 UNLstock
  46 2.1 UNLstock
  47 2.1 UNLstock
  48 2.1 UNLstock
@@ -61,7 +61,7 @@ S/N ver location ship date   comments
  56 2.1 UNLstock
  57 2.1 UNLstock
  58 2.1 UNLstock
- 59 2.1 inProd
+ 59 2.1 UNLstock
  60 2.1 inProd 
  61 2.1 UNLstock
  62 2.1 UNLstock
