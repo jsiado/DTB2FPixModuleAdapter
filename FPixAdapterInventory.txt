@@ -67,10 +67,10 @@ S/N ver location ship date   comments
  62 2.1 UNLstock
  63 2.1 UNLstock
  64 2.1 UNLstock
- 65 2.1
- 66 2.1
- 67 2.1
- 68 2.1
+ 65 2.1 UNLstock
+ 66 2.1 UNLstock
+ 67 2.1 UNLstock
+ 68 2.1 
  69 2.1
  70 2.1
  71 2.1
