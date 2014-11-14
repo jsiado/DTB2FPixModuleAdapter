@@ -78,11 +78,11 @@ S/N ver location ship date   comments
  73 2.1 UNLstock
  74 2.1 UNLstock
  75 2.1 UNLstock
- 76 2.1 
+ 76 2.1 UNLstock
  77 2.1 
- 78 2.1 
- 79 2.1 
- 80 2.1 
+ 78 2.1 UNLstock
+ 79 2.1 UNLstock
+ 80 2.1 UNLstock
 
 Note: From no. 17 on, a new delivery of boards have been used with a slightly lighter color. The resistor for the LED was changed from a 56 Ω to a 91 Ω
 
