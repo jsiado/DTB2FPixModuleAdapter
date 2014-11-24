@@ -44,10 +44,10 @@ S/N ver location ship date   comments
  39 2.1 UNLstock
  40 2.1 UNLstock  
  41 2.1 FNAL	 07-OCT-2014 
- 42 2.1 UNLstock
- 43 2.1 UNLstock
- 44 2.1 UNLstock
- 45 2.1 UNLstock
+ 42 2.1 UIC      24-NOV-2014
+ 43 2.1 UIC      24-NOV-2014
+ 44 2.1 UIC      24-NOV-2014
+ 45 2.1 UIC      24-NOV-2014
  46 2.1 UNLstock
  47 2.1 UNLstock
  48 2.1 UNLstock
@@ -61,28 +61,28 @@ S/N ver location ship date   comments
  56 2.1 UNLstock
  57 2.1 UNLstock
  58 2.1 UNLstock
- 59 2.1 UNLstock
+ 59 2.1 UIC      24-NOV-2014
  60 2.1 inProd 
  61 2.1 UNLstock
  62 2.1 UNLstock
- 63 2.1 UNLstock
- 64 2.1 UNLstock
- 65 2.1 UNLstock
- 66 2.1 UNLstock
- 67 2.1 UNLstock
- 68 2.1 UNLstock
- 69 2.1 UNLstock
- 70 2.1 UNLstock
- 71 2.1 UNLstock
- 72 2.1 UNLstock
- 73 2.1 UNLstock
- 74 2.1 UNLstock
- 75 2.1 UNLstock
- 76 2.1 UNLstock
+ 63 2.1 FNAL     24-NOV-2014
+ 64 2.1 FNAL     24-NOV-2014
+ 65 2.1 FNAL     24-NOV-2014
+ 66 2.1 FNAL     24-NOV-2014
+ 67 2.1 FNAL     24-NOV-2014
+ 68 2.1 FNAL     24-NOV-2014
+ 69 2.1 FNAL     24-NOV-2014
+ 70 2.1 FNAL     24-NOV-2014
+ 71 2.1 Marco    24-NOV-2014
+ 72 2.1 Marco    24-NOV-2014
+ 73 2.1 Marco    24-NOV-2014
+ 74 2.1 Marco    24-NOV-2014
+ 75 2.1 Marco    24-NOV-2014
+ 76 2.1 Marco    24-NOV-2014
  77 2.1 
- 78 2.1 UNLstock
- 79 2.1 UNLstock
- 80 2.1 UNLstock
+ 78 2.1 Marco    24-NOV-2014
+ 79 2.1 Marco    24-NOV-2014
+ 80 2.1 Marco    24-NOV-2014
 
 Note: From no. 17 on, a new delivery of boards have been used with a slightly lighter color. The resistor for the LED was changed from a 56 Ω to a 91 Ω
 
