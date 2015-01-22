@@ -86,6 +86,8 @@ S/N ver location ship date   comments
  79 2.1 Marco    24-NOV-2014
  80 2.1 Marco    24-NOV-2014
  81 2.1          08-DEC-2014 Made for Z=30Ω for use with Al-cable instead of Cu cable. Changes were: 39 Ω -> 36 Ω and 91 Ω -> 51 Ω
-
+ 81 2.1 Douglas  22-Jan-2015
+ 82 2.1 Douglas  22-Jan-2015
+ 
 Note: From no. 17 on, a new delivery of boards have been used with a slightly lighter color. The resistor for the LED was changed from a 56 Ω to a 91 Ω
 
